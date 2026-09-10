@@ -10,9 +10,9 @@ A collection of **Computer Networks laboratory experiments and practical records
 | Experiment 2 | `Exp2/232-CN-2.pdf` |
 | Experiment 3 | `Exp3/232-CN-3.pdf` |
 | Experiment 4 | `Exp4/232-CN-4.pdf` |
-| Experiment 5 | `Exp5/`             |
-| Experiment 6 | `Exp6/`             |
-| Experiment 7 | `Exp7/`             |
+| Experiment 5 | `Exp5/232-CN-5.pdf` |
+| Experiment 6 | `Exp6/232-CN-6.pdf` |
+| Experiment 7 | `Exp7/232-CN-7.pdf` |
 
 ## 🎯 Purpose
 
@@ -42,11 +42,11 @@ Computer-Networks/
 │   └── 232-CN-4.pdf
 │
 ├── Exp5/
-│
+│   └── 232-CN-5.pdf
 ├── Exp6/
-│
+│   └── 232-CN-6.pdf
 ├── Exp7/
-│
+│   └── 232-CN-7.pdf
 └── README.md
 ```
 
