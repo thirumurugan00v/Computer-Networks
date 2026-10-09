@@ -1,88 +1,81 @@
-# Computer Networks
+# 💻 Computer Networks Lab
 
-A collection of **Computer Networks laboratory experiments and practical records**. This repository contains the experiment documentation organized by experiment number for easy access and reference.
+## 📌 About the Repository
+This repository contains Computer Networks laboratory experiments implemented as part of academic coursework. It covers networking fundamentals, routing, network analysis, socket programming, and packet transmission.
 
-## 📚 Contents
+## 📚 Experiments List
 
-| Experiment   | File                |
-| ------------ | ------------------- |
-| Experiment 1 | `Exp1/232-CN-1.pdf` |
-| Experiment 2 | `Exp2/232-CN-2.pdf` |
-| Experiment 3 | `Exp3/232-CN-3.pdf` |
-| Experiment 4 | `Exp4/232-CN-4.pdf` |
-| Experiment 5 | `Exp5/232-CN-5.pdf` |
-| Experiment 6 | `Exp6/232-CN-6.pdf` |
-| Experiment 7 | `Exp7/232-CN-7.pdf` |
+| Experiment | Title | Description |
+|---|---|---|
+| Exp 1 | Network Commands | Learn basic network commands and their usage. |
+| Exp 2 | Network Cables | Study different network cables and their connections. |
+| Exp 3 | Hub, Switch & Packet Tracer | Understand hubs, switches, and network simulation. |
+| Exp 4 | LAN Setup | Configure a Local Area Network (LAN). |
+| Exp 5 | Wireshark | Capture and analyze network packets. |
+| Exp 6 | Hamming Code | Implement error detection and correction. |
+| Exp 7 | Sliding Window | Implement the sliding window protocol. |
+| Exp 8 | Nmap Host Discovery | Discover hosts on a network. |
+| Exp 9 | Subnetting & Packet Tracer | Perform IP subnetting and network simulation. |
+| Exp 10 | Internetworking & Routers | Study internetworking and router configuration. |
+| Exp 11 | Static Routing & RIP | Implement static routing and Routing Information Protocol (RIP). |
+| Exp 12 | Socket Echo Chat | Implement client-server communication using sockets. |
+| Exp 13 | Own Ping Program | Develop a program to test network connectivity. |
+| Exp 14 | Raw Socket Sniffer | Capture and inspect packets using raw sockets. |
+| Exp 15 | Webalizer Server Analysis | Analyze web server access logs and traffic statistics. |
 
-## 🎯 Purpose
+## 🛠️ Technologies & Tools
+- Computer Networks
+- TCP/IP and UDP
+- Socket Programming
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+- Linux Networking Commands
+- Routing and Subnetting
 
-This repository is created to maintain and organize **Computer Networks laboratory experiments** in one place. It can be used for:
+## 🎯 Objectives
+- Understand fundamental networking concepts.
+- Configure and analyze computer networks.
+- Implement networking protocols and algorithms.
+- Develop client-server applications using sockets.
+- Analyze network traffic and troubleshoot connectivity issues.
 
-* 📖 Laboratory preparation
-* 💻 Practical record reference
-* 📝 Exam preparation
-* 🔍 Reviewing completed experiments
-* 🎓 Academic reference
-
-## 🗂️ Repository Structure
+## 📂 Repository Structure
 
 ```text
 Computer-Networks/
-│
-├── Exp1/
-│   └── 232-CN-1.pdf
-│
-├── Exp2/
-│   └── 232-CN-2.pdf
-│
-├── Exp3/
-│   └── 232-CN-3.pdf
-│
-├── Exp4/
-│   └── 232-CN-4.pdf
-│
-├── Exp5/
-│   └── 232-CN-5.pdf
-├── Exp6/
-│   └── 232-CN-6.pdf
-├── Exp7/
-│   └── 232-CN-7.pdf
-└── README.md
+├── Exp1_Network_Commands/
+├── Exp2_Network_Cables/
+├── Exp3_Hub_Switch_PacketTracer/
+├── Exp4_LAN_Setup/
+├── Exp5_Wireshark/
+├── Exp6_Hamming_Code/
+├── Exp7_Sliding_Window/
+├── Exp8_Nmap_Host_Discovery/
+├── Exp9_Subnetting_Packet_Tracer/
+├── Exp10_Internetworking_Routers/
+├── Exp11_Routing_Static_RIP/
+├── Exp12_Socket_Echo_Chat/
+├── Exp13_Own_Ping_Program/
+├── Exp14_Raw_Socket_Sniffer/
+└── Exp15_Webalizer_Server_Analysis/
 ```
-
-## 🧠 Topics
-
-The experiments cover practical concepts related to **Computer Networks**, including networking fundamentals, protocols, communication, addressing, and other laboratory-oriented networking concepts.
 
 ## 🚀 How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/Computer-Networks.git
+   ```
+2. Open the project folder.
+3. Navigate to the experiment you want to explore.
+4. Follow the instructions and run the relevant code using the required tools.
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/thirumurugan00v/Computer-Networks.git
-```
-
-2. Open the repository:
-
-```bash
-cd Computer-Networks
-```
-
-3. Select the required experiment folder.
-
-4. Open the PDF/documentation associated with the experiment.
+## 📖 Learning Outcomes
+After completing these experiments, you will understand network configuration, routing, subnetting, packet analysis, error control, and socket-based communication.
 
 ## 👨‍💻 Author
-
-**Thiru Murugan**
-
-GitHub: [@thirumurugan00v](https://github.com/thirumurugan00v)
-
-## 📌 Note
-
-This repository is intended for **educational and academic purposes** and is maintained as a reference for Computer Networks laboratory work.
+**Thiru Murugan V**
 
 ---
 
-⭐ If this repository is useful to you, consider giving it a star!
-
+⭐ If you find this repository useful, consider giving it a star!
